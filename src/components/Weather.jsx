@@ -44,10 +44,10 @@ function Weather() {
     
 
         const search = async (city)=>{
-            if(city==""){
+            // if(city==""){
                
-                alert("Enter a city")
-            }
+            //     alert("Enter a city")
+            // }
             setIsLoading(true);
           
         
